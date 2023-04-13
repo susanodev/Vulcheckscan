@@ -3,7 +3,7 @@
 // WebVulScan
 // - Web Application Vulnerability Scanning Software
 //
-// Copyright (C) 2012 Dermot Blair (webvulscan@gmail.com)
+// Copyright (C) 2023 The TechnoPaths(technopaths@gmail.com)
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
