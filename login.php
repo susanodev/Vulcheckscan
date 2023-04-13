@@ -90,6 +90,6 @@ require_once($currentDir . 'scanner/functions/databaseFunctions.php');
     </div>
   </div>
 </div>
-<!--MiddleRow END-->TechnoPaths
+<!--MiddleRow END-->
 </body>
 </html>
