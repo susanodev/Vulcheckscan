@@ -3,7 +3,7 @@
 // WebVulScan
 // - Web Application Vulnerability Scanning Software
 //
-// Copyright (C) 2012 Dermot Blair (webvulscan@gmail.com)
+// Copyright (C) 2023 The TechnoPaths (technoPaths@gmail.com)
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -87,17 +87,10 @@ require_once($currentDir . 'scanner/functions/databaseFunctions.php');
 <div id="midrow">
   <div class="center">
     <div class="textbox2">
-      <p>This software was developed by Dermot Blair. The project was undertaken as an undergraduate final year project and was supervised by Brendan Watson. The course studied by Dermot Blair was B.Sc. in Software Development in Limerick Institute of Technology, Ireland. Course Code: LC233. College Website: www.lit.ie</p>
-	  <p>This software is licensed under the GNU General Public License. This software was developed, and should only be used, entirely for ethical purposes. Running security testing tools such as this on a website (web application) could damage it. In order to stay ethical, you must ensure you have permission of the owners before testing a website (web application). Testing the security of a website (web application) without authorisation is unethical and against the law in many countries.</p>
+        <p>This software is licensed under the GNU General Public License. This software was developed, and should only be used, entirely for ethical purposes. Running security testing tools such as this on a website (web application) could damage it. In order to stay ethical, you must ensure you have permission of the owners before testing a website (web application). Testing the security of a website (web application) without authorisation is unethical and against the law in many countries.</p>
     </div>
   </div>
 </div>
 <!--MiddleRow END-->
-
-<!--Footer Begin-->
-<div id="footer">
-  <div class="foot"> <span>Calliope</span> by <a href="http://www.towfiqi.com">Towfiq I.</a> is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License.</a> </div>
-</div>
-<!--Footer END-->
 </body>
 </html>
