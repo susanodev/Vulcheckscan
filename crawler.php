@@ -3,7 +3,7 @@
 // WebVulScan
 // - Web Application Vulnerability Scanning Software
 //
-// Copyright (C) 2012 Dermot Blair (webvulscan@gmail.com)
+// Copyright (C) 2023(thetechnopaths@gmail.com)
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -92,11 +92,5 @@ require_once($currentDir . 'scanner/functions/databaseFunctions.php');
   </div>
 </div>
 <!--MiddleRow END-->
-
-<!--Footer Begin-->
-<div id="footer">
-  <div class="foot"> <span>Calliope</span> by <a href="http://www.towfiqi.com">Towfiq I.</a> is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License.</a> </div>
-</div>
-<!--Footer END-->
 </body>
 </html>
