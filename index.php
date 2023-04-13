@@ -92,10 +92,5 @@ attributes.id = "slider";
     <p>WebVulScan firstly crawls the target website to identify all URLs belonging to the website. It tests each URL for a number of vulnerabilities and emails you a detailed PDF report once the scan is complete.</p></div>
 </div>
 <!--BottomRow END-->
-<!--Footer Begin-->
-<div id="footer">
-  <div class="foot"> <span>Calliope</span> by <a href="http://www.towfiqi.com">Towfiq I.</a> is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License.</a> </div>
-</div>
-<!--Footer END-->
 </body>
 </html>
