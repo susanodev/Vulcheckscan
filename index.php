@@ -3,7 +3,7 @@
 // WebVulScan
 // - Web Application Vulnerability Scanning Software
 //
-// Copyright (C) 2012 Dermot Blair (webvulscan@gmail.com)
+// Copyright (C) 2023 TheTechnoPaths (thetechnopaths@gmail.com)
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -59,7 +59,6 @@ flashvars.font = "font.swf";
 var attributes = {};
 attributes.wmode = "transparent";
 attributes.id = "slider";
-swfobject.embedSWF("cu3er.swf", "cu3er-container", "960", "270", "9", "expressInstall.swf", flashvars, attributes);
 </script>
 <script type="text/javascript" src="jquery-1.6.4.js"></script>
 </head>
@@ -85,15 +84,6 @@ swfobject.embedSWF("cu3er.swf", "cu3er-container", "960", "270", "9", "expressIn
   </div>
 </div>
 <!--Header END-->
-<!--Toprow Begin-->
-<div id="toprow">
-  <div class="center">
-    <div id="cubershadow">
-      <div id="cu3er-container"> <a href="http://www.adobe.com/go/getflashplayer"> <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="" /> </a> </div>
-    </div>
-  </div>
-</div>
-<!--Toprow END-->
 
 <!--BottomRow Begin-->
 <div id="bottomrow">
