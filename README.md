@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-WebVulScan is a web application vulnerability scanner. It is a web application itself written in PHP and can be used to test remote, or local, web applications for security vulnerabilities. As a scan is running, details of the scan are dynamically updated to the user. These details include the status of the scan, the number of URLs found on the web application, the number of vulnerabilities found and details of the vulnerabilities found.
+WebVulScan is a web application vulnerability scanner created by the team TechnoPaths in Hackfest 2023 IIT ISM Dhanbad wit the healp of (Shreshtha Das, Soumwadepp Guha , Manjeet Sharma). It is a web application itself written in PHP and can be used to test remote, or local, web applications for security vulnerabilities. As a scan is running, details of the scan are dynamically updated to the user. These details include the status of the scan, the number of URLs found on the web application, the number of vulnerabilities found and details of the vulnerabilities found.
 
 After a scan is complete, a detailed PDF report is emailed to the user. The report includes descriptions of the vulnerabilities found, recommendations and details of where and how each vulnerability was exploited. 
 
@@ -39,10 +39,10 @@ See ReadMe file in txt and docx format for installation instructions.
 ## Discussion
 
 As this project was exported from Google Code, previously found problems and solutions are available at: 
-- https://groups.google.com/forum/#!forum/webvulscan
-- https://code.google.com/p/webvulscan/issues/list
+- 
+- t
 
-For any other issues or feedback, please contact webvulscan@gmail.com
+For any other issues or feedback, please contact Team Technopaths@gmail.com
 
 ## License
 
