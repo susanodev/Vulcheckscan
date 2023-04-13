@@ -30,9 +30,7 @@
 //   License Version 3
 // - jQuery(http://jquery.com/) - Dual licensed the MIT or GNU General Public
 //   License Version 2 licenses
-// - Calliope(http://www.towfiqi.com/xhtml-template-calliope.html) - 
 //   Licensed under the Creative Commons Attribution 3.0 Unported License 
-//
 // This software was developed, and should only be used, entirely for 
 // ethical purposes. Running security testing tools such as this on a 
 // website(web application) could damage it. In order to stay ethical, 
