@@ -41,6 +41,7 @@
 // without authorisation is unethical and against the law in many countries.
 //
 /////////////////////////////////////////////////////////////////////////////
+<?php
 session_start();
 $currentDir = './';
 require_once($currentDir . 'scanner/functions/databaseFunctions.php');
@@ -59,16 +60,16 @@ require_once($currentDir . 'scanner/functions/databaseFunctions.php');
   <div class="center">
     <div id="logo"><a href="#">WebVulScan</a></div>
     <!--Menu Begin-->
-	<div id="menu">
-	<?php require_once($currentDir . 'session_control.php'); ?>
-	</div>
+    <div id="menu">
+      <?php require_once($currentDir . 'session_control.php'); ?>
+    </div>
     <div id="menu">
       <ul>
         <li><a href="index.php"><span>Home</span></a></li>
         <li><a href="about.php"><span>About</span></a></li>
-		<li><a href="crawler.php"><span>Crawler</span></a></li>
-		<li><a href="scanner.php"><span>Scanner</span></a></li>
-		<li><a href="history.php"><span>Scan History</span></a></li>
+        <li><a href="crawler.php"><span>Crawler</span></a></li>
+        <li><a href="scanner.php"><span>Scanner</span></a></li>
+        <li><a href="history.php"><span>Scan History</span></a></li>
       </ul>
     </div>
     <!--Menu END-->
@@ -86,7 +87,7 @@ require_once($currentDir . 'scanner/functions/databaseFunctions.php');
 <div id="midrow">
   <div class="center">
     <div class="textbox2">
-      <p><?php if(isset($loginMsg)) echo $loginMsg; ?></p>
+      <p><?php if (isset($loginMsg)) echo $loginMsg; ?></p>
     </div>
   </div>
 </div>
